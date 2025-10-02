@@ -41,4 +41,4 @@ The dashboard provides comprehensive monitoring and deep-dive analysis on the fo
 1.  **Download the Project:** Clone this repository to get the main project file (`.pbix` or `.twbx`).
     ```bash
     git clone [Your-GitHub-Repo-Link-Here]
-[Your LinkedIn Profile Link]
+
